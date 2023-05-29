@@ -1,2 +1,10 @@
-
 /* Your CSS Code here. */
+p{
+	background-color: lightblue;
+	width: 300px;
+}
+.demo p{
+	margin: 20px;
+	border: 15px solid blue;
+	padding: 50px;
+}
