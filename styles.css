@@ -1,10 +1,14 @@
 /* Your CSS Code here. */
-p{
-	background-color: lightblue;
-	width: 300px;
-}
-.demo p{
+div {
 	margin: 20px;
 	border: 15px solid blue;
+	padding: 50px solid lightblue;
+	
+	
+}
+div.demo{
+	width: 300px;
 	padding: 50px;
+	background-color: lightblue;
+	
 }
